@@ -5,7 +5,7 @@
     $server = '82.223.113.64';
     $username = 'qafq585';
     $database = 'qafq585';
-    $password = 'Baloo1Trufa2';
+    $password = '**********';
 
     $db = mysqli_connect($server, $username, $password, $database);
 
